@@ -41,3 +41,17 @@ a, a:visited {
   color: #0074d9;
   text-decoration: none;
 }
+
+@media only screen and (min-width: 60em) {
+
+  header {
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 90em) {
+
+  header {
+    text-align: left;
+  }
+}
